@@ -1,0 +1,6 @@
+{
+  "name": "Aura Commerce & Merchant Hub",
+  "description": "Modern direct-to-consumer digital storefront with Cash on Delivery and Online Payment processing, real-time product catalog management, and administrative control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
